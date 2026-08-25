@@ -56,5 +56,5 @@ apt install nginx -y
 
 ## 📬 Contact
 * **Name:** Kevin Pranata
-* **School:** SMK Telkom
+* **School:** SMK Telkom 1 Medan
 * **LinkedIn:** [Insert your LinkedIn link here later]
