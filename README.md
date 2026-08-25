@@ -1,4 +1,4 @@
-# Kevin Pranata - IT Portfolio
+# Kevin Pranata - IT Portofolio
 
 ## 📌 Project Overview
 This project documents how to install and configure a stable infrastructure using **Debian 13 (Trixie)** in a virtual environment (VMware). The goal is to build a fast, secure, and text-only (CLI) server for school and enterprise labs.
